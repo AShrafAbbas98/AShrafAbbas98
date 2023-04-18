@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrafabbas98&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafabbas98" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashrafabbas98" alt="ashrafabbas98" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="ashrafabbas98" /></a> </p>
+
 
 - 🔭 I’m currently working on **BIM Caster add-in**
 
