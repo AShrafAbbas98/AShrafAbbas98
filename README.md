@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **BUILDING DESIGN REVIEW ENGINE**
 
-- 🌱 I’m currently learning ** ASP.Net MVC CORE **
+- 🌱 I’m currently learning **ASP.Net MVC CORE**
 
 - 💬 Ask me about **C#, Revit API, WPF**
 
