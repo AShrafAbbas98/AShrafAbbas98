@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **BUILDING DESIGN REVIEW ENGINE**
 
-- 🌱 I’m currently learning **ASP.Net MVC CORE**
+- 🌱 I’m currently learning **Autodesk Platform Services - APS**
 
-- 💬 Ask me about **C#, Revit API, WPF**
+- 💬 Ask me about **C#, Revit API, WPF, MVC, WEB API**
 
 - 📫 How to reach me **ashrafabbasramadan@gmail.com**
 
