@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Autodesk Platform Services - APS**
 
-- 💬 Ask me about **C#, Revit API, WPF, MVC, WEB API**
+- 💬 Ask me about **C#, BIM Development, WPF, MVC, WEB API**
 
 - 📫 How to reach me **ashrafabbasramadan@gmail.com**
 
