@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **BUILDING DESIGN REVIEW ENGINE**
 
-- 🌱 I’m currently learning **Autodesk Platform Services - APS**
+- 🌱 I’m currently learning **Model Context Protocol - MCP**
 
-- 💬 Ask me about **C#, BIM Development, WPF, MVC, WEB API**
+- 💬 Ask me about **C#, BIM Development, WPF, MVC, WEB API, APS**
 
 - 📫 How to reach me **ashrafabbasramadan@gmail.com**
 
