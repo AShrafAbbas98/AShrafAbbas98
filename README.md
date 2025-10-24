@@ -47,14 +47,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashrafabbas98&show_icons=true&theme=radical" alt="Ashraf's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafabbas98&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 🌟 Fun Fact
 - Passionate about bridging **architecture and software development**.
 - Enjoy teaching BIM automation and exploring **cutting-edge AEC technology**.
