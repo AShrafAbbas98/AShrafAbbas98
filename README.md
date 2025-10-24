@@ -10,9 +10,13 @@
 ### 🔭 Current Work
 - Working on **BUILDING DESIGN REVIEW ENGINE** – enhancing design review workflows using BIM and automation.
 
-### 🌱 Currently Learning
-- **Model Context Protocol (MCP)** – to improve BIM data exchange and integration.
-- Advanced **BIM software development** workflows.
+### 🌱 Currently Learning & Exploring
+- **Introduction to Machine Learning** – applying AI concepts to engineering problems.
+- **Deep Learning for Computational Mechanics** – leveraging neural networks for structural analysis.
+- **Photogrammetric Photo Vision** – 3D reconstruction from images.
+- **Spatial Information Systems (GIS)** – managing and analyzing spatial data.
+- **Collaboration in BIM** – improving workflows for multi-disciplinary teams.
+- **Unity** – exploring interactive 3D visualization and simulations.
 
 ### 💬 Ask Me About
 - **C#, WPF, MVC, Web API, APS, BIM Development**
