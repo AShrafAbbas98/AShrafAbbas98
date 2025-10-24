@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashraf Abbas</h1>
-<h3 align="center">🔧 BIM Enthusiast | AEC Software Developer | BIM Development Instructor | MSc Candidate | ITI Graduate</h3>
+<h3 align="center">🔧 BIM Enthusiast | AEC Software Developer | BIM Development Instructor | MSc Digital Engineering Candidate @ Bauhaus Universität Weimar | ITI Graduate</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashrafabbas98&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafabbas98" />
